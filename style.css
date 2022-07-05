@@ -239,7 +239,7 @@ p {
   background-color: var(--hero-opacity-color);
 }
 .hero-image-title {
-  font-size: 3.5vw;
+  font-size: 7.5vw;
   color: var(--white-color);
   margin-top: 15rem;
 }
@@ -477,11 +477,11 @@ progress::-webkit-progress-value {
 }
 
 .footer {
-  margin-bottom: var(--header-height);
   padding: 0.5rem;
   text-align: center;
   color: var(--white-color);
   background-color: var(--third-color);
+  margin-bottom: var(--header-height);
 }
 .header {
   position: fixed;
@@ -505,7 +505,7 @@ progress::-webkit-progress-value {
   font-weight: bold;
   font-size: 2rem;
   text-decoration: none;
-  margin-left: 1rem;
+  margin-left: 0;
 }
 .portfolio-card {
   position: relative;
