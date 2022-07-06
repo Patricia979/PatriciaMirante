@@ -489,7 +489,7 @@ progress::-webkit-progress-value {
   bottom: 0;
   z-index: 999;
   padding: 1rem;
-  width: 100%;
+  width: 80%;
   height: var(--header-height);
   background-color: var(--second-color);
 }
