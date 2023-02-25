@@ -664,3 +664,8 @@ progress::-webkit-progress-value {
     grid-column: span 3;
   }
 }
+.videohd {
+  border-radius: 10%;
+  width: 400px;
+  height: 400git px;
+}
